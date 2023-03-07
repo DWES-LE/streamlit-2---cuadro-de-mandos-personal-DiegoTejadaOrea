@@ -41,4 +41,5 @@ Son mediante un slider para los datos numericos y mediante un selectbox para los
 
 
 ## Publica la aplicación.
-Publica la aplicación en Streamlit Cloud, en Heroku o en el servicio que prefieras https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app
+La app esta desplegada mediante Streamlit Cloud en la siguiente url: 
+https://diegotejadaorea-streamlit-2---cuadro-de-mandos-perso-app-tnwf79.streamlit.app/

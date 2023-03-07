@@ -5,10 +5,8 @@ import streamlit as st
 import requests
 import plotly.express as px
 import matplotlib.pyplot as plt
-import base64
 from PIL import Image
 import numpy as np
-
 
 # URL con la lista de pokemones
 URL = 'https://raw.githubusercontent.com/DWES-LE/streamlit-2---cuadro-de-mandos-personal-DiegoTejadaOrea/main/datos/datos_pokemon_actualizados.csv'
